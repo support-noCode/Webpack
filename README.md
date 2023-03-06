@@ -6,7 +6,7 @@
 ### 第五章 &ensp;[loader](https://github.com/support-noCode/webpack/issues/5)
 ### 第六章 &ensp;[插件-plugin](https://github.com/support-noCode/webpack/issues/6)
 ### 第七章 &ensp;[配置-configuration](https://github.com/support-noCode/webpack/issues/7)
-### 第八章 &ensp;[模块-module](https://github.com/support-noCode/webpack/issues/8)
+### 第八章 &ensp;[作用-webpack](https://github.com/support-noCode/webpack/issues/8)
 ### 第九章 &ensp;[模块解析](https://github.com/support-noCode/webpack/issues/9)
 ### 第十章 &ensp;[manifest](https://github.com/support-noCode/webpack/issues/10)
 ### 第十一章 &ensp;[部署目标](https://github.com/support-noCode/webpack/issues/11)
